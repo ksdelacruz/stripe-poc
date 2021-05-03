@@ -1,0 +1,4 @@
+CONFIG = {
+    "API_KEY": "sk_test_51IfmDhGKqNGYjZGJxIG6BZltCBj8oav2zDGRD1ik79cgGrpcV2JAKzVRxet2r6RcFwl5xp6USooo0cxYUV86RQvG00QmQyvwRX",
+    "WEBHOOK_SECRET_KEY": "whsec_g1ES9MUS3iiHfAPvjjmTMc1arCmgkXvY"
+}
